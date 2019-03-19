@@ -1,4 +1,2 @@
 Steps:
-    <P>>update composer</p>   
-    <P>>php artisan migrate</P>
-    <P>>php artisan serve</P>
+    <p>>update composer</p><p>>php artisan migrate</p><p>>php artisan serve</p>
